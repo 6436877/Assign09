@@ -1,0 +1,1 @@
+print("seqbio initiakized",__name__)
